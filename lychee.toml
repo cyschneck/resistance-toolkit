@@ -1,1 +1,7 @@
-exclude_path = ["*assets*"]
+exclude = [
+	"*.png"
+	"https://bcrw.apple.com/sms:open?service=iMessage&recipient=urn:biz:d0189b65-f844-4344-adc1-d2d01daca04e&body=resist",
+	"https://www.messenger.com/t/1224106861035505?text=resist",
+	"https://www.instagram.com/direct/t/107534807309194/?text=",
+	"https://t.me/resistbot?start=resist"
+]
