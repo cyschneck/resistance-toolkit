@@ -1,11 +1,12 @@
-exclude = [
-	"*.png"
-	"https://bcrw.apple.com/sms:open?service=iMessage&recipient=urn:biz:d0189b65-f844-4344-adc1-d2d01daca04e&body=resist",
-	"https://www.messenger.com/t/1224106861035505?text=resist",
-	"https://www.instagram.com/direct/t/107534807309194/?text=",
-	"https://t.me/resistbot?start=resist",
-	"https://www.powells.com/featured/antiracism",
-	"https://online.osu.edu/",
-	"https://online.osu.edu/undergraduate-certificates/black-studies-certificate/",
-	"https://www.congress.gov/members/find-your-member"
-]
+# Discard Chache Older Than X
+max_cache_age = "2d"
+
+# Max retries before link is labeled dead
+max_retries = 2
+
+# Max concurrent link checkers
+max_concurrency = 14
+
+# Acceptable
+# 200: Valid link, 403: Forbidden URL, 429: Too Many Requests
+accept = ["200", "403", "429"]
