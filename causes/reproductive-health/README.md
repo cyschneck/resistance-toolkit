@@ -6,7 +6,7 @@ Want to pick Reproductive Health as your cause? Great! Move to [step 2](../../st
 
 ## 🇺🇸 U.S. Focused
 
-- [Planed Parenthood](https://www.plannedparenthood.org/)
+- [Planned Parenthood](https://www.plannedparenthood.org/)
 
   America’s Most Trusted Name in Sexual Health. Planned Parenthood is the nation’s leading provider and advocate of high-quality, affordable sexual and reproductive health care for all people, as well as the nation’s largest provider of sex education.
 
