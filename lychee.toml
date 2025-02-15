@@ -1,1 +1,1 @@
-exclude_path = ["assets"]
+exclude_path = ["*assets*"]
